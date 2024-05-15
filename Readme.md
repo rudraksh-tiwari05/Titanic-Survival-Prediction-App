@@ -40,6 +40,6 @@ Run the Streamlit app with the following command:
 
 ```bash
 streamlit run titanic_app.py
-
+```
 
 Author - Rudraksh Tiwari
